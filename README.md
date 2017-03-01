@@ -1,6 +1,8 @@
 # GitHub-Workshop
 A workshop for Digital Scholarship Fellows on how to use GitHub for team collaboration. Organized by Ellis Simani (@ellissimani). 
 
+Paul Le Tran
+
 ## What is Git and why is GitHub useful?
 Though often used synonymously, Git and GitHub are two different things. Git is a version control system, a tool to manage your source code history. GitHub is a hosting service for Git repositories. In essence, Git is the tool, and GitHub is the service for projects that use Git (or a range of other kinds of software/documents/files/etc.). 
 
